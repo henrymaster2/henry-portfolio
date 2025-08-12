@@ -105,7 +105,7 @@ export default function Home() {
         <p className="text-sm sm:text-base">
           Email:{" "}
           <a
-            href="mailto:masterherny681@gmail.com"
+            href="mailto:masterhenry681@gmail.com"
             className="underline text-cyan-300 break-all"
           >
             masterherny681@gmail.com
